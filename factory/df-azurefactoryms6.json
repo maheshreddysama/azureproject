@@ -1,0 +1,9 @@
+{
+	"name": "df-azurefactoryms6",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b11c0cec-da64-4604-9ed2-55aa858a7963",
+		"tenantId": "5cb1146e-a866-41dd-9ad7-aa89d38cd8e1"
+	}
+}
