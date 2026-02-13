@@ -30,7 +30,7 @@
 					"type": "Expression"
 				},
 				"fileSystem": {
-					"value": "@dataset().p_container",
+					"value": "@dataset().container",
 					"type": "Expression"
 				}
 			}
